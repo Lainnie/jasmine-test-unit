@@ -1,0 +1,1 @@
+var requirejs=require("requrejs");requirejs.config({nodereRequire:require}),define("jasmine-test",function(){});
